@@ -1,3 +1,5 @@
+//step 1 through 5 not showable in comments
+
 console.log('Hello world!');//step 6
 console.warn('This is a warning!');//step 7
 console.error('Error! System critical!');// step 8
@@ -41,5 +43,5 @@ console.log(var3);//step 21
 var1 = 5;//step 22
 var2 = '5';//step 23
 
-console.log (var1 + Number(var2));
+console.log (var1 + Number(var2));//step 24
 
