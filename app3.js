@@ -38,7 +38,7 @@ if ( game.loss > 0 ) {
 }
 
 // // step 12
-if ( game.win === '0' && game.loss === '0'  || game.win === '1' && game.loss === '1' ) {
+if ( game.win === '0' && game.loss === '0' || game.win === '1' && game.loss === '1' ) {
     results += 'tie game';
 }
 
